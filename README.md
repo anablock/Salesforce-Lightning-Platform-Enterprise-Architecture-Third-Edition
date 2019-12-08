@@ -1,10 +1,11 @@
 # Salesforce Lightning Platform Enterprise Architecture - Third Edition 
 
+* [Static Images](https://static.packt-cdn.com/downloads/9781789956719_ColorImages.pdf)
+
 <a href="https://www.packtpub.com/programming/lightning-platform-enterprise-architecture-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789956719"><img src="" alt="Salesforce Lightning Platform Enterprise Architecture - Third Edition " height="256px" align="right"></a>
 
 This is the code repository for [Salesforce Lightning Platform Enterprise Architecture - Third Edition ](https://www.packtpub.com/programming/lightning-platform-enterprise-architecture-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789956719), published by Packt.
 
-**Architect and deliver packaged applications that cater to enterprise business needs**
 
 ## What is this book about?
 Salesforce Lightning provides a secure and scalable platform to build, deploy, customize, and upgrade applications. This book will take you through the architecture of building an application on the Lightning platform to help you understand its features and best practices, and ensure that your app keeps up with your customers’ increasing needs as well as the innovations on the platform.
